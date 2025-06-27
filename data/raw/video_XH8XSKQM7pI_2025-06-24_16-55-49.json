@@ -1,0 +1,66 @@
+{
+  "kind": "youtube#video",
+  "etag": "72o_EWTL-zr8xPKfxg2PsuDxd2Y",
+  "id": "XH8XSKQM7pI",
+  "snippet": {
+    "publishedAt": "2025-06-24T02:57:25Z",
+    "channelId": "UCXM6E-CQ8V3yPdOuXCnbqmw",
+    "title": "The 2025 Jimmy Awards",
+    "description": "Meet the future of Broadway as Josh Groban hosts the 16th annual National High School Musical Theatre Awards\u00ae, a.k.a. the Jimmy Awards\u00ae. This limited-time-only event showcases outstanding performances from talented students selected through regional awards programs across the US. The show includes production numbers, medleys, solo performances, and the presentation of awards. Watch through Thursday June 26 only.\n\nFull song credits: https://www.jimmyawards.com/credits/2025/\n\nThe Jimmy Awards are presented by The Broadway League Foundation and the Pittsburgh CLO, with livestream support provided by Apples and Oranges Arts.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/XH8XSKQM7pI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/XH8XSKQM7pI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/XH8XSKQM7pI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/XH8XSKQM7pI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/XH8XSKQM7pI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Jimmy Awards",
+    "tags": [
+      "Broadway",
+      "Musical Theater",
+      "Jimmy Awards"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "The 2025 Jimmy Awards",
+      "description": "Meet the future of Broadway as Josh Groban hosts the 16th annual National High School Musical Theatre Awards\u00ae, a.k.a. the Jimmy Awards\u00ae. This limited-time-only event showcases outstanding performances from talented students selected through regional awards programs across the US. The show includes production numbers, medleys, solo performances, and the presentation of awards. Watch through Thursday June 26 only.\n\nFull song credits: https://www.jimmyawards.com/credits/2025/\n\nThe Jimmy Awards are presented by The Broadway League Foundation and the Pittsburgh CLO, with livestream support provided by Apples and Oranges Arts."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3H14M40S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "212853",
+    "likeCount": "3153",
+    "favoriteCount": "0",
+    "commentCount": "288"
+  }
+}

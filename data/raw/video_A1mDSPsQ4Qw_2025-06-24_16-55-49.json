@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#video",
+  "etag": "gjMV46m5AtMEPfTk_0k-pRRIsu0",
+  "id": "A1mDSPsQ4Qw",
+  "snippet": {
+    "publishedAt": "2025-06-24T03:59:11Z",
+    "channelId": "UCI1XS_GkLGDOgf8YLaaXNRA",
+    "title": "A Mind-Reader's WORST matchup.",
+    "description": "Iron defense vs a mind reader!\n\nLive Stream every Friday btw https://twitch.tv/calebcity\n\nMusic \nOmarCameUp - Outta My Mind",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/A1mDSPsQ4Qw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/A1mDSPsQ4Qw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/A1mDSPsQ4Qw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/A1mDSPsQ4Qw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/A1mDSPsQ4Qw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "CalebCity",
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "A Mind-Reader's WORST matchup.",
+      "description": "Iron defense vs a mind reader!\n\nLive Stream every Friday btw https://twitch.tv/calebcity\n\nMusic \nOmarCameUp - Outta My Mind"
+    }
+  },
+  "contentDetails": {
+    "duration": "PT1M41S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "290695",
+    "likeCount": "48978",
+    "favoriteCount": "0",
+    "commentCount": "1705"
+  }
+}

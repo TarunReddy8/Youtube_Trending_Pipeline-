@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "EDpv9ek8BM4uCScbzd2e3JcTTyc",
+  "id": "fc23hxQFMdQ",
+  "snippet": {
+    "publishedAt": "2025-06-23T17:36:43Z",
+    "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+    "title": "Iran launches missiles at US bases in Qatar and Iraq, state media reports | BBC News",
+    "description": "Iran has launched missiles at US airbases in Qatar and Iraq in response to strikes on its nuclear sites on Saturday, state media reports.\n \nQatar confirms the attack on the US-run Al Udeid base, calling it a \"flagrant violation\" and says it reserves the right to respond directly.\n \nThe country has temporarily closed its airspace and US and UK citizens have been advised to shelter in place.\n \nIn Washington, Donald Trump is attending a National Security Council meeting.\n \nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#Qatar #Iran #BBCNews",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fc23hxQFMdQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fc23hxQFMdQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fc23hxQFMdQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/fc23hxQFMdQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/fc23hxQFMdQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "BBC News",
+    "tags": [
+      "bbc",
+      "bbc news",
+      "news",
+      "world news",
+      "breaking news",
+      "us news",
+      "world",
+      "america",
+      "usa",
+      "usa news",
+      "india news"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Iran launches missiles at US bases in Qatar and Iraq, state media reports | BBC News",
+      "description": "Iran has launched missiles at US airbases in Qatar and Iraq in response to strikes on its nuclear sites on Saturday, state media reports.\n \nQatar confirms the attack on the US-run Al Udeid base, calling it a \"flagrant violation\" and says it reserves the right to respond directly.\n \nThe country has temporarily closed its airspace and US and UK citizens have been advised to shelter in place.\n \nIn Washington, Donald Trump is attending a National Security Council meeting.\n \nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#Qatar #Iran #BBCNews"
+    },
+    "defaultAudioLanguage": "en-GB"
+  },
+  "contentDetails": {
+    "duration": "PT15M16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "5355351",
+    "likeCount": "43068",
+    "favoriteCount": "0",
+    "commentCount": "14987"
+  }
+}
